@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://norvica.ae/sitemap-index.xml
