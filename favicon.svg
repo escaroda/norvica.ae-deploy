@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="388 37 600 600">
   <rect x="388" y="37" width="600" height="600" rx="80" fill="#0a0a0b"/>
   <g fill="#dfc684">
-    <rect x="462.42" y="205.88" width="349.61" height="75.25" transform="translate(358.82 -379.26) rotate(45)"/>
-    <rect x="679.54" y="261.7" width="191.69" height="75.25" transform="translate(1535.32 -37.29) rotate(135)"/>
-    <rect x="506.59" y="413.82" width="292.14" height="75.25" transform="translate(510.38 -329.27) rotate(45)"/>
-    <rect x="654.02" y="399.51" width="332.61" height="75.25" transform="translate(1709.48 166.18) rotate(135)"/>
-    <rect x="404.01" y="392.79" width="232.65" height="75.25" transform="translate(1192.62 366.83) rotate(135)"/>
+    <polygon points="869.76 258.16 734.22 393.71 487.01 146.51 540.23 93.29 734.22 287.28 816.55 204.95 869.76 258.16"/>
+    <polygon points="522.76 374.76 575.98 321.55 522.77 374.77 522.76 374.76"/>
+    <polygon points="782.55 528.13 729.34 581.34 676.12 528.12 729.34 581.33 782.55 528.13"/>
+    <polygon points="964.53 346.15 729.34 581.33 575.98 427.98 464.69 539.27 411.48 486.06 575.98 321.55 729.33 474.91 911.31 292.93 964.53 346.15"/>
   </g>
 </svg>
